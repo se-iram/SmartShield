@@ -1,4 +1,4 @@
-# SmartShield: Real-Time Face Recognition App using Siamese Neural Network
+# SmartShield: Real-Time Face Verification App using Siamese Neural Network
 
 ## 📌 Overview
 FaceMatch is a facial recognition system trained from scratch using a Siamese Neural Network built with TensorFlow. It compares two face images and tells if they belong to the same person.
