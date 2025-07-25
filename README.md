@@ -18,6 +18,11 @@ This system respects all hackathon rules:
 
 ---
 
+### Dataset
+- kaggle: LFW - People (Face Recognition)
+- https://www.kaggle.com/datasets/atulanandjha/lfwpeople
+  
+
 ## Repository Structure
 
 - smart-shield/
