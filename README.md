@@ -20,23 +20,23 @@ This system respects all hackathon rules:
 
 ## Repository Structure
 
-smart-shield/
-├── app.py # Backend server (Flask or Gradio)
-├── utils.py # Model loading, preprocessing, and inference
-├── requirements.txt # Python dependencies
-├── anchor/ # Anchor reference images for verification
-│ └── *.jpg
-├── input.jpg # Saved image captured during runtime
-├── model/
-│ └── siamesemodel/ # SofaedModel folder (TensorFlow format)
-│ ├── saved_model.pb
-│ └── variables/
-├── templates/ # HTML templates (if using Flask)
-│ └── index.html
-├── static/
-│ ├── style.css # Custom styles
-│ └── app.js # Client-side logic
-└── README.md # This file
+- smart-shield/
+ - ├── app.py # Backend server (Flask or Gradio)
+ - ├── utils.py # Model loading, preprocessing, and inference
+ - ├── requirements.txt # Python dependencies
+ - ├── anchor/ # Anchor reference images for verification
+ - │ └── *.jpg
+ - ├── input.jpg # Saved image captured during runtime
+ - ├── model/
+ - │ └── siamesemodel/ # SofaedModel folder (TensorFlow format)
+ - │ ├── saved_model.pb
+ - │ └── variables/
+ - ├── templates/ # HTML templates (if using Flask)
+ - │ └── index.html
+ - ├── static/
+ - │ ├── style.css # Custom styles
+ - │ └── app.js # Client-side logic
+ - └── README.md # This file
 
 ---
 
