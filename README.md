@@ -111,6 +111,6 @@ Open a browser to http://127.0.0.1:5000/. Use the Start Camera button to enable 
 ---
 
 ### Author
-Iram Hameed
-GitHub: se-iram
-Contact: eramhameed5@gmail.coom
+ - Iram Hameed
+ - GitHub: se-iram
+ - Contact: eramhameed5@gmail.coom
